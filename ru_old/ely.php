@@ -1,0 +1,21 @@
+<?php
+return [
+    'button.add' => 'Добавить',
+    'button.done' => 'Готово',
+    'button.download' => 'Сохранить къ себѣ',
+    'button.edit' => 'Измѣнить',
+    'button.more' => 'Подробнѣе',
+    'button.remove' => 'Порвать',
+    'button.report' => 'Написать кляузу',
+    'button.save' => 'Заимѣть экземпляръ',
+    'button.upload' => 'Отправить голубями',
+    'confirm.continue' => 'Господинъ точно изволитъ прододжать?',
+    'image.email_site_name' => '@@ru/email/ely-by.png@@',
+    'image.email_site_name_footer' => '@@ru/email/ely-by-footer.png@@',
+    'text.cube' => 'Мнѣ по нраву',
+    'text.uncube' => 'Мнѣ не по нраву',
+    'title.append' => 'Система скинов Ѣly.by',
+    'title.site_description' => 'Альтернативные сервисы Minecraft',
+    'title.site_name' => 'Ѣly.by',
+    'title.site_name_full' => 'Каталог и система скинов для Mineraft Ѣly.by',
+];
