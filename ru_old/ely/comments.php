@@ -1,11 +1,11 @@
 <?php
 return [
-    'confirm.remove' => 'Вы действительно хотите удалить этот комментарий?',
-    'text.author' => 'Автор',
-    'text.error_comment_delete_partial' => 'При удалении комментариев возникла ошибка. Возможно комментарии не были удалены.',
-    'text.error_comment_need_friendship' => 'Чтобы комментировать записи этого пользователя вам нужно стать его другом.',
-    'text.success_comment_create' => 'Новый комментарий успешно добавлен.',
-    'text.success_comment_delete' => 'Комментарий успешно удалён.',
-    'tooltip.leave_comment' => 'Оставьте комментарий',
-    'tooltip.published_on' => 'Опубликовано {date}',
+    'confirm.remove' => 'Вы дѣйствительно хотите удалить ваше мнѣніе?',
+    'text.author' => 'Авторъ',
+    'text.error_comment_delete_partial' => 'При удаленіи вашего мнѣнія возникла ошибка. Возможно ваше мнѣніе не было удалено.',
+    'text.error_comment_need_friendship' => 'Чтобы оставлять мнѣніе подъ записями этого пользователя, вамъ нужно стать его знакомцемъ.',
+    'text.success_comment_create' => 'Ваше мнѣніе оставлено.',
+    'text.success_comment_delete' => 'Ваше мнѣніе удалено.',
+    'tooltip.leave_comment' => 'Оставьте ваше мнѣніе',
+    'tooltip.published_on' => 'Мнѣніе оставлено {date}',
 ];

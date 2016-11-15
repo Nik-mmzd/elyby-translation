@@ -1,12 +1,12 @@
 <?php
 return [
-    'button.activate_account' => 'Активировать аккаунт',
-    'label.email' => 'E-mail:',
+    'button.activate_account' => 'Активировать аккаунтъ ',
+    'label.email' => 'Электропочта:',
     'label.i_accept' => 'Я принимаю',
-    'label.minecraft_username' => 'Ник в Minecraft:',
-    'label.nickname_on_site' => 'Ник для сайта:',
-    'label.site_language' => 'Язык сайта:',
+    'label.minecraft_username' => 'Ваше прозвищѣ въ Minecraft:',
+    'label.nickname_on_site' => 'Ваше прозвищѣ для сайта:',
+    'label.site_language' => 'Языкъ сайта:',
     'link.elyby_terms' => 'правила проекта Ely.by',
-    'text.finishing_registration' => 'Завершение регистрации на Ely.by',
-    'text.nickname_description' => 'Если вы не укажете ник для сайта, то вместо него будет использоваться ваш ник для Minecraft.',
+    'text.finishing_registration' => 'Завершеніе регистраціи на Ely.by',
+    'text.nickname_description' => 'Если вы не укажете прозвищѣ для сайта, то вмѣсто него будетъ использоваться ваше прозвищѣ для Minecraft.',
 ];
